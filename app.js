@@ -28,7 +28,7 @@ const app = {
         },
         {
             name:"Hoa hải đường",
-            singer:'Rách 5tr',
+            singer:'Rách 3.5tr',
             image: './asserts/img/img11.jpg',
             path: './asserts/music/b11.mp3'
             
